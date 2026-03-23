@@ -1,0 +1,402 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Angular Keynote",
+      "date": "2025-12-01T09:00:00.000Z",
+      "description": "The future of the framework revealed. Join the Angular team as they unveil the latest advancements.",
+      "location": "Main Hall",
+      "image": "/images/angular-keynote.png",
+      "speakers": [
+        "Sarah Drasner",
+        "Minko Gechev",
+        "Mark Techson"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Signals Deep Dive",
+      "date": "2025-12-02T11:00:00.000Z",
+      "description": "Mastering Angular signals and modern reactivity patterns.",
+      "location": "Room 3B",
+      "image": "/images/signals-deep-dive.png",
+      "speakers": [
+        "Alex Rickabaugh",
+        "Pawel Kozlowski"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Angular Session 3",
+      "date": "2025-12-03T09:00:00.000Z",
+      "description": "Tech event session number 3 about Angular and modern web development.",
+      "location": "Room 3",
+      "image": "/images/event-3.png",
+      "speakers": [
+        "Speaker A3",
+        "Speaker B3"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Angular Session 4",
+      "date": "2025-12-04T09:00:00.000Z",
+      "description": "Tech event session number 4 about Angular and modern web development.",
+      "location": "Room 4",
+      "image": "/images/event-4.png",
+      "speakers": [
+        "Speaker A4",
+        "Speaker B4"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Angular Session 5",
+      "date": "2025-12-05T09:00:00.000Z",
+      "description": "Tech event session number 5 about Angular and modern web development.",
+      "location": "Room 5",
+      "image": "/images/event-5.png",
+      "speakers": [
+        "Speaker A5",
+        "Speaker B5"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Angular Session 7",
+      "date": "2025-12-07T09:00:00.000Z",
+      "description": "Tech event session number 7 about Angular and modern web development.",
+      "location": "Room 7",
+      "image": "/images/event-7.png",
+      "speakers": [
+        "Speaker A7",
+        "Speaker B7"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Angular Session 8",
+      "date": "2025-12-08T09:00:00.000Z",
+      "description": "Tech event session number 8 about Angular and modern web development.",
+      "location": "Room 8",
+      "image": "/images/event-8.png",
+      "speakers": [
+        "Speaker A8",
+        "Speaker B8"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Angular Session 10",
+      "date": "2025-12-10T09:00:00.000Z",
+      "description": "Tech event session number 10 about Angular and modern web development.",
+      "location": "Room 10",
+      "image": "/images/event-10.png",
+      "speakers": [
+        "Speaker A10",
+        "Speaker B10"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Angular Session 11",
+      "date": "2025-12-11T09:00:00.000Z",
+      "description": "Tech event session number 11 about Angular and modern web development.",
+      "location": "Room 1",
+      "image": "/images/event-11.png",
+      "speakers": [
+        "Speaker A11",
+        "Speaker B11"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Angular Session 12",
+      "date": "2025-12-12T09:00:00.000Z",
+      "description": "Tech event session number 12 about Angular and modern web development.",
+      "location": "Room 2",
+      "image": "/images/event-12.png",
+      "speakers": [
+        "Speaker A12",
+        "Speaker B12"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Angular Session 13",
+      "date": "2025-12-13T09:00:00.000Z",
+      "description": "Tech event session number 13 about Angular and modern web development.",
+      "location": "Room 3",
+      "image": "/images/event-13.png",
+      "speakers": [
+        "Speaker A13",
+        "Speaker B13"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Angular Session 14",
+      "date": "2025-12-14T09:00:00.000Z",
+      "description": "Tech event session number 14 about Angular and modern web development.",
+      "location": "Room 4",
+      "image": "/images/event-14.png",
+      "speakers": [
+        "Speaker A14",
+        "Speaker B14"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Angular Session 15",
+      "date": "2025-12-15T09:00:00.000Z",
+      "description": "Tech event session number 15 about Angular and modern web development.",
+      "location": "Room 5",
+      "image": "/images/event-15.png",
+      "speakers": [
+        "Speaker A15",
+        "Speaker B15"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Angular Session 16",
+      "date": "2025-12-16T09:00:00.000Z",
+      "description": "Tech event session number 16 about Angular and modern web development.",
+      "location": "Room 6",
+      "image": "/images/event-16.png",
+      "speakers": [
+        "Speaker A16",
+        "Speaker B16"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Angular Session 17",
+      "date": "2025-12-17T09:00:00.000Z",
+      "description": "Tech event session number 17 about Angular and modern web development.",
+      "location": "Room 7",
+      "image": "/images/event-17.png",
+      "speakers": [
+        "Speaker A17",
+        "Speaker B17"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Angular Session 18",
+      "date": "2025-12-18T09:00:00.000Z",
+      "description": "Tech event session number 18 about Angular and modern web development.",
+      "location": "Room 8",
+      "image": "/images/event-18.png",
+      "speakers": [
+        "Speaker A18",
+        "Speaker B18"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Angular Session 19",
+      "date": "2025-12-19T09:00:00.000Z",
+      "description": "Tech event session number 19 about Angular and modern web development.",
+      "location": "Room 9",
+      "image": "/images/event-19.png",
+      "speakers": [
+        "Speaker A19",
+        "Speaker B19"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Angular Session 20",
+      "date": "2025-12-20T09:00:00.000Z",
+      "description": "Tech event session number 20 about Angular and modern web development.",
+      "location": "Room 10",
+      "image": "/images/event-20.png",
+      "speakers": [
+        "Speaker A20",
+        "Speaker B20"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Angular Session 21",
+      "date": "2025-12-21T09:00:00.000Z",
+      "description": "Tech event session number 21 about Angular and modern web development.",
+      "location": "Room 1",
+      "image": "/images/event-21.png",
+      "speakers": [
+        "Speaker A21",
+        "Speaker B21"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Angular Session 22",
+      "date": "2025-12-22T09:00:00.000Z",
+      "description": "Tech event session number 22 about Angular and modern web development.",
+      "location": "Room 2",
+      "image": "/images/event-22.png",
+      "speakers": [
+        "Speaker A22",
+        "Speaker B22"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Angular Session 23",
+      "date": "2025-12-23T09:00:00.000Z",
+      "description": "Tech event session number 23 about Angular and modern web development.",
+      "location": "Room 3",
+      "image": "/images/event-23.png",
+      "speakers": [
+        "Speaker A23",
+        "Speaker B23"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Angular Session 24",
+      "date": "2025-12-24T09:00:00.000Z",
+      "description": "Tech event session number 24 about Angular and modern web development.",
+      "location": "Room 4",
+      "image": "/images/event-24.png",
+      "speakers": [
+        "Speaker A24",
+        "Speaker B24"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Angular Session 25",
+      "date": "2025-12-25T09:00:00.000Z",
+      "description": "Tech event session number 25 about Angular and modern web development.",
+      "location": "Room 5",
+      "image": "/images/event-25.png",
+      "speakers": [
+        "Speaker A25",
+        "Speaker B25"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Angular Session 26",
+      "date": "2025-12-26T09:00:00.000Z",
+      "description": "Tech event session number 26 about Angular and modern web development.",
+      "location": "Room 6",
+      "image": "/images/event-26.png",
+      "speakers": [
+        "Speaker A26",
+        "Speaker B26"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Angular Session 27",
+      "date": "2025-12-27T09:00:00.000Z",
+      "description": "Tech event session number 27 about Angular and modern web development.",
+      "location": "Room 7",
+      "image": "/images/event-27.png",
+      "speakers": [
+        "Speaker A27",
+        "Speaker B27"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Angular Session 28",
+      "date": "2025-12-28T09:00:00.000Z",
+      "description": "Tech event session number 28 about Angular and modern web development.",
+      "location": "Room 8",
+      "image": "/images/event-28.png",
+      "speakers": [
+        "Speaker A28",
+        "Speaker B28"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Angular Session 29",
+      "date": "2025-12-29T09:00:00.000Z",
+      "description": "Tech event session number 29 about Angular and modern web development.",
+      "location": "Room 9",
+      "image": "/images/event-29.png",
+      "speakers": [
+        "Speaker A29",
+        "Speaker B29"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Angular Session 30",
+      "date": "2025-12-30T09:00:00.000Z",
+      "description": "Tech event session number 30 about Angular and modern web development.",
+      "location": "Room 10",
+      "image": "/images/event-30.png",
+      "speakers": [
+        "Speaker A30",
+        "Speaker B30"
+      ]
+    },
+    {
+      "title": "122121",
+      "description": "21121221212121",
+      "date": "2026-03-20T18:02",
+      "location": "212112212121",
+      "speakers": [],
+      "image": "/images/event4.png",
+      "id": "P-z8s9F"
+    },
+    {
+      "title": "122121",
+      "description": "12211212211221121221",
+      "date": "2026-03-20T18:05",
+      "location": "1212121212",
+      "speakers": [],
+      "image": "/images/event4.png",
+      "id": "UY2pNTl"
+    }
+  ],
+  "tickets": [
+    {
+      "eventId": "2",
+      "id": 1
+    },
+    {
+      "eventId": "2",
+      "id": 2
+    },
+    {
+      "eventId": "2",
+      "id": 3
+    },
+    {
+      "eventId": "2",
+      "id": 4
+    },
+    {
+      "eventId": "2",
+      "id": 5
+    },
+    {
+      "eventId": "2",
+      "id": 7
+    },
+    {
+      "title": "12121",
+      "description": "12121121212121221211212",
+      "date": "2026-03-23T11:54",
+      "location": "121212121212",
+      "speakers": [],
+      "image": "/images/event4.png",
+      "id": 9
+    },
+    {
+      "eventId": "2",
+      "id": 10
+    },
+    {
+      "eventId": "2",
+      "id": 11
+    }
+  ]
+}
